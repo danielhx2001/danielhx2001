@@ -6,7 +6,9 @@
 <h3>About</h3>
 <p>I am a Data Analyst with 2 years of professional experience. My work centers on translating complex data and real-world business problems into data-driven insights and mesurable impacts that help organizations make smarter decisions. <br>
   
-  I always believe data can be a good force for our communities. I thrive where analytical thinking meets mission-driven work, and where data can directly shape strategy and improve people’s lives.
+I always believe data can be a good force for our communities. I thrive where analytical thinking meets mission-driven work, and where data can directly shape strategy and improve people’s lives. <br>
+
+On my personal homepage, you can explore a series of real-world data projects that showcase how I use tools such as SQL, Python, and visualization platforms to solve practical problems—from data cleaning and exploratory analysis to predictive modeling and insight-driven storytelling. Happy to connect with you and discuss more about data topics!
 </p>
 
 <h3>Connect with Me</h3>
